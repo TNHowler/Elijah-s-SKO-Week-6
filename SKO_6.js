@@ -49,7 +49,7 @@ function draw() {
 
   for (let i = 0; i < ellipses.length; i++) {
     let e = ellipses[i];
-    if (i === 0) {
+    if (i === 10) {
       stroke(0, 255, 0);
     } else if (i === 1) {
       stroke(255, 0, 0);
