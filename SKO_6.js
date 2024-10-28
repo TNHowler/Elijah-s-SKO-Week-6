@@ -38,7 +38,7 @@ function draw() {
 
   imageMode(CENTER);
 
-  image(Table, width / 2.65, height / 1.3, width / 4, height / 4);
+  image(Table, width / 2.55, height / 1.3, width / 4, height / 4);
 
   image(DrawingCode, width / 1.6, height / 1.3, width / 5, height / 4);
 
